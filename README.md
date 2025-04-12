@@ -1,3 +1,5 @@
+this is only proof of concept and no way production ready. 
+
 1. add checkbox filter
 2. use search Search Enables
 3. add some class for search widget
